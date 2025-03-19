@@ -4,6 +4,6 @@ Este projeto foi desenvolvido como um desafio da [**DIO**](www.dio.me) na trilha
 
 ## Descrição
 
-O projeto é um programa simples de Java que simula a criação de uma conta bancária, o programa solicita informações via terminal e após a inserção delas, ele retorna uma mensagem de agradecimento pelos dados inseridos.
+O projeto é um programa simples de Java que simula a criação de uma conta bancária. O programa solicita informações via terminal e após a inserção delas, ele retorna uma mensagem de agradecimento pelos dados inseridos.
 
-É um projeto inteiramente feito em Java e utilizando a classe Scanner.
+É um projeto inteiramente feito em Java e utiliza a classe Scanner.
